@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thebestgeracao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
   <br clear="both">
 
-<img align="right" height="200" src="https://github.com/user-attachments/assets/cf3573f7-b312-4abe-9cf4-2b15df8e9552"  />
+<img align="right" height="100" src="https://github.com/user-attachments/assets/cf3573f7-b312-4abe-9cf4-2b15df8e9552"  />
   
 </div>
 
