@@ -1,8 +1,3 @@
-<style>
-  body {
-    background-color: lightblue
-  }
-</style>
 <h2 align="left"><br>Sejam bem vindos ao meu Github ! 😁👋🏾 <br><br>- 🔭 Hoje trabalho com back-end.<br>- 🌱 Graduando em Ciência da Computação.<br>- 😄 Pronouns: ele/dele.</h2>
 
 ###
