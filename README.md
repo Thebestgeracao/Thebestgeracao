@@ -32,6 +32,7 @@
   <img src="https://cdn.simpleicons.org/swift/F05138" height="30" alt="swift logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+   <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
   
 </div>
 
