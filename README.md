@@ -51,6 +51,18 @@
   </a>
 </div>
 
+<div align="left">
+  <a href="https://discord.com/channels/@matheus_developer" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" style="border-radius: 10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-de-jesus-costa-7b6709174/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" style="border-radius: 10px;" />
+  </a>
+  <a href="mailto:matheuscostajesus@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" style="border-radius: 10px;" />
+  </a>
+</div>
+
 ###
 
 <br clear="both">
