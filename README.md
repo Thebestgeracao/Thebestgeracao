@@ -1,4 +1,4 @@
-<h2 align="left"><br>Sejam bem vindos ao meu Github ! 😁👋🏾 <br><br>- 🔭 Hoje trabalho com Back-end em formação.<br>- 🌱 Graduando em Ciência da Computação.<br>- 😄 Pronouns: ele/dele.<br>- 💭 "Talento ganha jogos, mas trabalho em equipe e inteligência ganham campeonatos."<br> </h2>
+<h2 align="left"><br>Sejam bem vindos ao meu Github ! 😁👋🏾 <br><br>- 🔭 Hoje trabalho com Back-end.<br>- 🌱 Graduando em Ciência da Computação.<br>- 😄 Pronouns: ele/dele.<br>- 💭 "Talento ganha jogos, mas trabalho em equipe e inteligência ganham campeonatos."<br> </h2>
 
 ###
 
